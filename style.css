@@ -1,0 +1,50 @@
+#tbl{
+    border: 5px outset black;
+    border-radius: 20px;
+    /* margin: 10px auto; */
+    text-align: center;
+    padding: 10px 5px;
+    top: 25%;
+    background-color: grey;
+    /* background: url(./images/johann-siemens-EPy0gBJzzZU-unsplash.jpg); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    position: absolute;
+    left: 30%;
+}
+button#clear{
+    width: 413px;
+    height: 40px;
+    /* background: deepskyblue; */
+}
+#scr{
+    width:400px;
+    height: 60px;
+    text-align: right;
+    font-size: 40px;
+    border: 5px inset grey;
+    border-radius: 20px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: 900;
+    font-size: 25px;
+    background-color: silver;
+}
+button#equ{
+    width:200px;
+}
+#name{
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+}body {
+    background: url(./images/xps-2L-0vnCnzcU-unsplash.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* display: flex; */
+    /* justify-content: center; */
+}
